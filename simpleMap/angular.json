@@ -28,9 +28,13 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/L.Control.ZoomBar.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/L.Control.ZoomBar.js",
+              "src/assets/leaflet.js"
+            ]
           },
           "configurations": {
             "production": {
